@@ -1,7 +1,7 @@
 
 [![MasterHead](https://raw.githubusercontent.com/kheya19/kheya19/main/Peach%20and%20Violet%20Multicolored%20Earth%20Day%20Web%20Banner%20(1).png)](https://github.com/kheya19.io)
 <p align="center">
-  <img src=(https://raw.githubusercontent.com/kheya19/kheya19/main/Peach%20and%20Violet%20Multicolored%20Earth%20Day%20Web%20Banner%20(1).png" />
+  <img src="https://raw.githubusercontent.com/kheya19/kheya19/main/Peach%20and%20Violet%20Multicolored%20Earth%20Day%20Web%20Banner%20(1).png" />
 </p>
 <h1 align="center">Hi 👋, I'm Kheya</h1>
 <h3 align="center">A passionate web developer from India</h3>
